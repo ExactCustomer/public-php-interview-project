@@ -1,0 +1,9 @@
+# Internal, never commit
+interviewer_guide.md
+interviewer_guide.docx
+
+# Local database files
+*.db
+
+# OS files
+.DS_Store
